@@ -27,9 +27,13 @@ Permite agregar nombres de amigos, mostrarlos en una lista y sortear uno de form
 
 .
 ├── index.html # Página principal
+
 ├── style.css # Estilos del proyecto
+
 ├── app.js # Lógica de la aplicación
+
 ├── assets/ # Imágenes e íconos
+
 └── README.md # Documentación
 
 ---
